@@ -1,0 +1,27 @@
+{
+  "name": "浅色主题",
+  "colors": {
+    "primary": "#007AFF",
+    "secondary": "#34C759", 
+    "accent": "#FF9500",
+    "background": "#F2F2F7",
+    "surface": "#FFFFFF",
+    "text": "#1C1C1E",
+    "subtext": "#8E8E93",
+    "border": "#C6C6C8",
+    "header": "#000000"
+  },
+  "borderRadius": 12,
+  "shadow": {
+    "radius": 8,
+    "color": "#00000020",
+    "offsetX": 0,
+    "offsetY": 2
+  },
+  "fonts": {
+    "title": 24,
+    "subtitle": 18,
+    "body": 16,
+    "caption": 12
+  }
+}

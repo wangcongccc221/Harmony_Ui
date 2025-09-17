@@ -1,0 +1,27 @@
+{
+  "name": "深色主题",
+  "colors": {
+    "primary": "#0A84FF",
+    "secondary": "#30D158",
+    "accent": "#FF9F0A",
+    "background": "#000000",
+    "surface": "#1C1C1E",
+    "text": "#FFFFFF",
+    "subtext": "#8E8E93",
+    "border": "#38383A",
+    "header": "#1C1C1E"
+  },
+  "borderRadius": 12,
+  "shadow": {
+    "radius": 8,
+    "color": "#FFFFFF10",
+    "offsetX": 0,
+    "offsetY": 2
+  },
+  "fonts": {
+    "title": 24,
+    "subtitle": 18,
+    "body": 16,
+    "caption": 12
+  }
+}
