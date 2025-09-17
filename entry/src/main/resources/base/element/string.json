@@ -11,6 +11,30 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "company_name",
+      "value": "公司名称"
+    },
+    {
+      "name": "user_name",
+      "value": "张三"
+    },
+    {
+      "name": "user_role",
+      "value": "管理员"
+    },
+    {
+      "name": "home_page",
+      "value": "主页"
+    },
+    {
+      "name": "statistics",
+      "value": "统计"
+    },
+    {
+      "name": "level",
+      "value": "等级"
     }
   ]
 }
